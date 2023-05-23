@@ -1,0 +1,86 @@
+{
+    "funcionarios": [
+      {
+        "id": 1,
+        "nome": "Josue",
+        "cpf": "22222", 
+        "cargo": "Analista",
+        "id_departamento": 1
+      },
+      {
+        "id": 2,
+        "nome": "Maria",
+        "cpf": "11111",
+        "cargo": "Programadora",
+        "id_departamento": 2
+      },
+      {
+        "id": 3,
+        "nome": "Pedro",
+        "cpf": "33333",
+        "cargo": "Gerente",
+        "id_departamento": 1
+      },
+      {
+        "id": 4,
+        "nome": "Ana",
+        "cpf": "44444",
+        "cargo": "Programadora",
+        "id_departamento": 2
+      },
+      {
+        "id": 5,
+        "nome": "Mario",
+        "cpf": "55555",
+        "cargo": "Analista",
+        "id_departamento": 1
+      },
+      {
+        "id": 6,
+        "nome": "Bruna",
+        "cpf": "66666",
+        "cargo": "Programadora",
+        "id_departamento": 2
+      },
+      {
+        "id": 7,
+        "nome": "Lucas",
+        "cpf": "77777",
+        "cargo": "Analista",
+        "id_departamento": 1
+      },
+      {
+        "id": 8,
+        "nome": "Julia",
+        "cpf": "88888",
+        "cargo": "Programadora",
+        "id_departamento": 2
+      },
+      {
+        "id": 9,
+        "nome": "Marcos",
+        "cpf": "99999",
+        "cargo": "Gerente",
+        "id_departamento": 1
+      },
+      {
+        "id": 10,
+        "nome": "Fernanda",
+        "cpf": "12121",
+        "cargo": "Programadora",
+        "id_departamento": 2
+      }
+    ],
+    "departamentos": [
+      {
+        "id": 1,
+        "nome": "TI",
+        "descricao": "Departamento de Tecnologia da Informação"
+      },
+      {
+        "id": 2,
+        "nome": "Marketing",
+        "descricao": "Departamento de Marketing"
+      }
+    ]
+  }
